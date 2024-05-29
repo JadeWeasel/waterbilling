@@ -1,0 +1,28 @@
+/* pages/profile.module.css */
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.title {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.profile {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.profileItem {
+  margin: 10px 0;
+}
+
+.label {
+  font-weight: bold;
+  margin-right: 10px;
+}
